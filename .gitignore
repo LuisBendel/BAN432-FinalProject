@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+cleaned/data_cleaned.Rdata
+dataShareWithStudents.zip
